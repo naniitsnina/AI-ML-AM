@@ -1,2 +1,2 @@
-# Basic-Smart-Contract
-Hello World Example
+# hello-world
+assignment 1 (AM) - Basic: Smart Contract
